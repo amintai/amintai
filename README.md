@@ -4,7 +4,8 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jmau111.jmau111" width="82" height="20" alt="">
   <img src="https://github.com/jmau111/jmau111/blob/master/images/malabar.gif" width="230" height="199" alt="">
-
+  <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjmau111" width="82" height="20" alt="">
+  
 </p>
 - 🌱 I’m currently learning **Angular , Node js**
 
