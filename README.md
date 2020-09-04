@@ -37,3 +37,6 @@
 <a href="https://codesandbox.com/https://codesandbox.io/u/amintai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="https://codesandbox.io/u/amintai" height="30" width="30" /></a>
 <a href="https://instagram.com/_amin__09_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_amin__09_" height="30" width="30" /></a>
 </p>
+<p align="center">
+  <img src="https://github.com/jmau111/jmau111/blob/master/images/wavy.svg" wdith="100%" alt="">
+</p>
