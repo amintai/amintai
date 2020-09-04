@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://amintai.github.io/mywebsite](https://amintai.github.io/mywebsite)
 
-- 📝 I regulary write articles on [I dont have blog 💁](I dont have blog 💁)
+- 📝 I regulary write articles on [I dont have blog 💁]
 
 - 💬 Ask me about **Javascript**
 
