@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I am Amin Tai 👋 👋 </h1>
+<h1 align="center"> Hey, I'm Amin Tai 👋  </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amintai" alt="amintai" /> </p>
