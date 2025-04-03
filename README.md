@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amin Tai</h1>
-<h3 align="center">A passionate Frontend and wanna be a Full-Stack developer from India with experience in React</h3>
+<h3 align="center">A passionate Frontend and wanna be a Full-Stack developer from India with experience in workign with React and it's ecosystem</h3>
 
 [![An image of @amintai's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amintai)](https://holopin.io/@amintai)
 
